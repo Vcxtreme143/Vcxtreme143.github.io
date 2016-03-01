@@ -1,0 +1,16 @@
+html {background-color: #2F4F4F}
+h1 {
+	text-align:center;
+	text-transform: uppercase;
+}
+slogan {
+	font-weight: 700;
+	font-style: italic;
+	font-size: 32px;
+	text-align: center;
+}
+body {
+	text-align: center;
+}
+	
+p {font-size: 28px;}
